@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container-wrapper{
+	width: 100%;
+}
+.container {
+	max-width: 1500px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	align-items: center;
+}
+img{
+	max-width: 100%;
+}
+h1{
+	font-size: 60px;
+	line-height: 80px;
+	color: #333333;
+}
+h1 span{
+	color: #FFAD5A;
+	display: block;
+}
+.mission-details{
+	width: 630px;
+	
+}
+
+.profile-pic{
+	width: 400px;
+}
+.profile-pic img{
+	width: 100%;
+}
+.My-mission{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
